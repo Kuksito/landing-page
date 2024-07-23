@@ -20,6 +20,7 @@ html{
     align-items: center;
     background-color: #0e1c17;
     padding: 20px 260px;
+    border-bottom: #fb4295;
 }
 
 .header-logo{
